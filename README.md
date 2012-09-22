@@ -22,4 +22,6 @@ Have DAAP servers on your local network, preferably Firefly.
 
 start it with
 
+```
 python daaplaya.py
+```
